@@ -12,9 +12,9 @@ seaborn = "*"
 fcsparser = "*"
 jupyterlab = "*"
 tqdm = "*"
+black = "*"
 
 [dev-packages]
-black = "*"
 
 [requires]
 python_version = "3.10"

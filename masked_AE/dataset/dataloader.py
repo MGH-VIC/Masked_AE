@@ -3,6 +3,7 @@ import pandas as pd
 import torch
 from torch.utils.data import Dataset, DataLoader
 
+
 class SingleCell(Dataset):
     """Pytorch SingleCell
     produces an iterator that returns a
